@@ -78,4 +78,4 @@ if input_1 == str(math + math_2):
     
 else:
     
-    print("Rejected")```
+    print("Rejected")
