@@ -50,8 +50,16 @@ if input_1 == str(math + math_2):
      time.sleep(.2)
      
      if input_3 == ("1"):
+         
+         print(">")
+         
          if input_4 == ("2"):
+             
+             print(">")
+             
              if input_5 == ("3"):
+                 
+                 print(">")
                  
                  print("Verify successful")
                  
