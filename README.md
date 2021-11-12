@@ -1,6 +1,7 @@
 # Human-Verification
 A simple human verification system
 
+```
 print("Please do the verification task one by one")
 
 import time
